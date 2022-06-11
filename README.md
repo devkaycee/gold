@@ -1,2 +1,2 @@
-# gold
-Marvy Health Matters(MHM); Gold Pharmaceuticals
+# Gold
+Marvy Health Matters(MHM): Gold Pharmaceuticals
